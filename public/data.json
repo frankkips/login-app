@@ -1,0 +1,92 @@
+[
+    {
+        "firstName": "Emily",
+        "middleName": "Grace",
+        "lastName": "Johnson",
+        "email": "emily.johnson@example.com",
+        "phone": "+254712345678",
+        "username": "emilyj",
+        "password": "Pass1234!"
+    },
+    {
+        "firstName": "Michael",
+        "middleName": "James",
+        "lastName": "Okello",
+        "email": "michael.okello@example.com",
+        "phone": "+254723456789",
+        "username": "mikeok",
+        "password": "SecurePass1!"
+    },
+    {
+        "firstName": "Aisha",
+        "middleName": "Nafula",
+        "lastName": "Ali",
+        "email": "aisha.ali@example.com",
+        "phone": "+254734567890",
+        "username": "aishaa",
+        "password": "Ali@2025"
+    },
+    {
+        "firstName": "Brian",
+        "middleName": "Odhiambo",
+        "lastName": "Otieno",
+        "email": "brian.otieno@example.com",
+        "phone": "+254745678901",
+        "username": "brian_o",
+        "password": "Brian!987"
+    },
+    {
+        "firstName": "Carol",
+        "middleName": "Wanjiku",
+        "lastName": "Mwangi",
+        "email": "carol.mwangi@example.com",
+        "phone": "+254756789012",
+        "username": "carolw",
+        "password": "Mwangi#321"
+    },
+    {
+        "firstName": "David",
+        "middleName": "Maina",
+        "lastName": "Kamau",
+        "email": "david.kamau@example.com",
+        "phone": "+254767890123",
+        "username": "davidk",
+        "password": "Kamau$456"
+    },
+    {
+        "firstName": "Faith",
+        "middleName": "Nyambura",
+        "lastName": "Muthoni",
+        "email": "faith.muthoni@example.com",
+        "phone": "+254778901234",
+        "username": "faithm",
+        "password": "Faith@2023"
+    },
+    {
+        "firstName": "George",
+        "middleName": "Kiprono",
+        "lastName": "Cheruiyot",
+        "email": "george.cheruiyot@example.com",
+        "phone": "+254789012345",
+        "username": "georgec",
+        "password": "Cheruiyot#001"
+    },
+    {
+        "firstName": "Irene",
+        "middleName": "Achieng",
+        "lastName": "Otieno",
+        "email": "irene.otieno@example.com",
+        "phone": "+254790123456",
+        "username": "ireneo",
+        "password": "Otieno2024!"
+    },
+    {
+        "firstName": "Kevin",
+        "middleName": "Kibet",
+        "lastName": "Langat",
+        "email": "kevin.langat@example.com",
+        "phone": "+254701234567",
+        "username": "kevinl",
+        "password": "Langat_789"
+    }
+]
