@@ -42,7 +42,6 @@ export default function Tntbl(){
                             {headerGroup.headers.map(header => (
                                 <th key={header.id} className='border py-1.5 px-2'>
                                     {flexRender(header.column.columnDef.header, header.getContext())}
-                                    {header.column.getIsSorted() === 'asc' ? '🔼' : header.column.getIsSorted() === 'desc' ? '🔽' : ''}
                                 </th>
                             ))}
                         </tr>
