@@ -9,10 +9,13 @@ export default function Tntbl(){
         .then(res => res.json())
         .then(json => setData(json))
     },[])
+
+    const customNameFilter = (row, columnId, filterValue) => {
+        const fullName = `${row.original.firstName} ${row.original.middleName} ${row.original.lastName}`.toLowerCase();
+        return fullName.includes(filterValue.toLowerCase());
+    };
+
     const columns = useMemo(() => [
-        // {header: 'First Name',accessorKey:'firstName'},
-        // {header: 'Middle Name',accessorKey:'middleName'},
-        // {header: 'Last Name',accessorKey:'lastName'},
         {
             header: 'Name',
             accessorKey: 'firstName',
@@ -28,21 +31,18 @@ export default function Tntbl(){
                 const nameB = `${rowB.original.firstName} ${rowB.original.middleName} ${rowB.original.lastName}`.toLowerCase();
                 return nameA.localeCompare(nameB);
             },
-            filterFn: (row, filterValue, columnId) => {
-                const firstName = `${row.firstName} ${row.middleName} ${row.lastName}`
-                return firstName.includes(filterValue.toLowerCase())
-            }
+            filterFn: customNameFilter
         },
         {header: 'Email',
             accessorKey:'email',
-            meta: {
-                filterVariant: 'text',
-            },
             sortingFn: (rowA, rowB) => {
                 const nameA = `${rowA.original.email}`.toLowerCase();
                 const nameB = `${rowB.original.email}`.toLowerCase();
                 return nameA.localeCompare(nameB);
-            }
+            },
+            meta: {
+                filterVariant: 'text',
+            },
         },
         {header: 'Phone',
             accessorKey:'phone',
@@ -107,12 +107,16 @@ export default function Tntbl(){
                                     {flexRender(header.column.columnDef.header, header.getContext())}
                                     {header.column.getIsSorted() === 'asc' ? '🔼' : header.column.getIsSorted() === 'desc' ? '🔽' : ''}
                                     <div>
-                                        <input 
-                                            type="text"
-                                            placeholder='Search...'
-                                            value={table.getColumn('firstName')?.getFilterValue() ?? ''}
-                                            onChange={e => table.getColumn('firstName')?.setFilterValue(e.target.value)}
-                                        />
+                                        {['firstName', 'email', 'phone', 'username', 'password'].map( columnId => (
+                                            <input 
+                                                key = {columnId}
+                                                type="text"
+                                                placeholder='Search...'
+                                                value={table.getColumn(columnId)?.getFilterValue() ?? ''}
+                                                onChange={e => table.getColumn(columnId)?.setFilterValue(e.target.value)}
+                                            />
+                                        ))}
+                                        
                                     </div>
                                 </th>
                             ))}
