@@ -99,25 +99,24 @@ export default function Tntbl(){
         <div>
             <h1 className='font-bold text-2xl'>A Simple Table</h1>
             <table className='border'>
-                <thead className='border border-amber-800 bg-sky-900 text-white'>
+                <thead className='sticky top-0 border border-amber-800 bg-sky-900 text-white'>
                     {table.getHeaderGroups().map(headerGroup => (
                         <tr key={headerGroup.id} >
                             {headerGroup.headers.map(header => (
                                 <th key={header.id} className='border py-1.5 px-2' onClick={header.column.getToggleSortingHandler()}>
                                     {flexRender(header.column.columnDef.header, header.getContext())}
                                     {header.column.getIsSorted() === 'asc' ? '🔼' : header.column.getIsSorted() === 'desc' ? '🔽' : ''}
-                                    <div>
-                                        {['firstName', 'email', 'phone', 'username', 'password'].map( columnId => (
-                                            <input 
-                                                key = {columnId}
-                                                type="text"
-                                                placeholder='Search...'
-                                                value={table.getColumn(columnId)?.getFilterValue() ?? ''}
-                                                onChange={e => table.getColumn(columnId)?.setFilterValue(e.target.value)}
-                                            />
-                                        ))}
-                                        
+                                    {header.column.getCanFilter() ? (
+                                        <div>
+                                        <input 
+                                            type="text"
+                                            placeholder={`Search ${header.column.columnDef.header}...`}
+                                            value={header.column.getFilterValue() ?? ''}
+                                            onChange={e => header.column.setFilterValue(e.target.value)}
+                                        />
                                     </div>
+                                    ): null}
+                                    
                                 </th>
                             ))}
                         </tr>

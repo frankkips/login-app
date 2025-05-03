@@ -88,5 +88,907 @@
         "phone": "+254701234567",
         "username": "kevinl",
         "password": "Langat_789"
-    }
+    },
+    
+        {
+            "firstName": "Megan",
+            "middleName": "Katherine",
+            "lastName": "Fisher",
+            "email": "megan.fisher@example.com",
+            "phone": "+254761706749",
+            "username": "meganf",
+            "password": "Fisher_876"
+        },
+        {
+            "firstName": "Jonathan",
+            "middleName": "William",
+            "lastName": "Sullivan",
+            "email": "jonathan.sullivan@example.com",
+            "phone": "+254766448162",
+            "username": "jonathans",
+            "password": "Sullivan_141"
+        },
+        {
+            "firstName": "Kristen",
+            "middleName": "Kevin",
+            "lastName": "Woods",
+            "email": "kristen.woods@example.com",
+            "phone": "+254744751217",
+            "username": "kristenw",
+            "password": "Woods_623"
+        },
+        {
+            "firstName": "Brandy",
+            "middleName": "Rebecca",
+            "lastName": "Wagner",
+            "email": "brandy.wagner@example.com",
+            "phone": "+254775220111",
+            "username": "brandyw",
+            "password": "Wagner_514"
+        },
+        {
+            "firstName": "Juan",
+            "middleName": "Katelyn",
+            "lastName": "Montgomery",
+            "email": "juan.montgomery@example.com",
+            "phone": "+254750709944",
+            "username": "juanm",
+            "password": "Montgomery_588"
+        },
+        {
+            "firstName": "John",
+            "middleName": "Renee",
+            "lastName": "Mcgrath",
+            "email": "john.mcgrath@example.com",
+            "phone": "+254758056573",
+            "username": "johnm",
+            "password": "Mcgrath_697"
+        },
+        {
+            "firstName": "Lisa",
+            "middleName": "Rachel",
+            "lastName": "Collins",
+            "email": "lisa.collins@example.com",
+            "phone": "+254739318886",
+            "username": "lisac",
+            "password": "Collins_616"
+        },
+        {
+            "firstName": "Jessica",
+            "middleName": "Rachel",
+            "lastName": "Sutton",
+            "email": "jessica.sutton@example.com",
+            "phone": "+254728693000",
+            "username": "jessicas",
+            "password": "Sutton_388"
+        },
+        {
+            "firstName": "Thomas",
+            "middleName": "Craig",
+            "lastName": "Hamilton",
+            "email": "thomas.hamilton@example.com",
+            "phone": "+254728756361",
+            "username": "thomash",
+            "password": "Hamilton_873"
+        },
+        {
+            "firstName": "Cheryl",
+            "middleName": "Robin",
+            "lastName": "Levy",
+            "email": "cheryl.levy@example.com",
+            "phone": "+254722727969",
+            "username": "cheryll",
+            "password": "Levy_733"
+        },
+        {
+            "firstName": "Thomas",
+            "middleName": "Michelle",
+            "lastName": "Green",
+            "email": "thomas.green@example.com",
+            "phone": "+254743622391",
+            "username": "thomasg",
+            "password": "Green_645"
+        },
+        {
+            "firstName": "Linda",
+            "middleName": "Ana",
+            "lastName": "Smith",
+            "email": "linda.smith@example.com",
+            "phone": "+254790785928",
+            "username": "lindas",
+            "password": "Smith_250"
+        },
+        {
+            "firstName": "Jennifer",
+            "middleName": "Raymond",
+            "lastName": "Summers",
+            "email": "jennifer.summers@example.com",
+            "phone": "+254751627302",
+            "username": "jennifers",
+            "password": "Summers_201"
+        },
+        {
+            "firstName": "Elizabeth",
+            "middleName": "Aaron",
+            "lastName": "Snyder",
+            "email": "elizabeth.snyder@example.com",
+            "phone": "+254719897541",
+            "username": "elizabeths",
+            "password": "Snyder_970"
+        },
+        {
+            "firstName": "Mikayla",
+            "middleName": "John",
+            "lastName": "Nguyen",
+            "email": "mikayla.nguyen@example.com",
+            "phone": "+254754318320",
+            "username": "mikaylan",
+            "password": "Nguyen_583"
+        },
+        {
+            "firstName": "Monica",
+            "middleName": "James",
+            "lastName": "Bradley",
+            "email": "monica.bradley@example.com",
+            "phone": "+254785136920",
+            "username": "monicab",
+            "password": "Bradley_203"
+        },
+        {
+            "firstName": "John",
+            "middleName": "Tammy",
+            "lastName": "Pratt",
+            "email": "john.pratt@example.com",
+            "phone": "+254757485068",
+            "username": "johnp",
+            "password": "Pratt_544"
+        },
+        {
+            "firstName": "Seth",
+            "middleName": "Christopher",
+            "lastName": "Flores",
+            "email": "seth.flores@example.com",
+            "phone": "+254752439202",
+            "username": "sethf",
+            "password": "Flores_725"
+        },
+        {
+            "firstName": "William",
+            "middleName": "Sarah",
+            "lastName": "Rodriguez",
+            "email": "william.rodriguez@example.com",
+            "phone": "+254795956173",
+            "username": "williamr",
+            "password": "Rodriguez_309"
+        },
+        {
+            "firstName": "Andrea",
+            "middleName": "Jasmine",
+            "lastName": "Kelley",
+            "email": "andrea.kelley@example.com",
+            "phone": "+254784158472",
+            "username": "andreak",
+            "password": "Kelley_588"
+        },
+        {
+            "firstName": "Lisa",
+            "middleName": "Amber",
+            "lastName": "Maynard",
+            "email": "lisa.maynard@example.com",
+            "phone": "+254769417296",
+            "username": "lisam",
+            "password": "Maynard_986"
+        },
+        {
+            "firstName": "Carrie",
+            "middleName": "Briana",
+            "lastName": "Wallace",
+            "email": "carrie.wallace@example.com",
+            "phone": "+254779974900",
+            "username": "carriew",
+            "password": "Wallace_366"
+        },
+        {
+            "firstName": "Caitlyn",
+            "middleName": "Paul",
+            "lastName": "Johnston",
+            "email": "caitlyn.johnston@example.com",
+            "phone": "+254718359024",
+            "username": "caitlynj",
+            "password": "Johnston_924"
+        },
+        {
+            "firstName": "Kelly",
+            "middleName": "Jaime",
+            "lastName": "Lopez",
+            "email": "kelly.lopez@example.com",
+            "phone": "+254783645173",
+            "username": "kellyl",
+            "password": "Lopez_114"
+        },
+        {
+            "firstName": "Chloe",
+            "middleName": "Diane",
+            "lastName": "Alvarez",
+            "email": "chloe.alvarez@example.com",
+            "phone": "+254722518737",
+            "username": "chloea",
+            "password": "Alvarez_836"
+        },
+        {
+            "firstName": "Christopher",
+            "middleName": "Katherine",
+            "lastName": "Mcdowell",
+            "email": "christopher.mcdowell@example.com",
+            "phone": "+254763529189",
+            "username": "christopherm",
+            "password": "Mcdowell_827"
+        },
+        {
+            "firstName": "Sandra",
+            "middleName": "Megan",
+            "lastName": "Villanueva",
+            "email": "sandra.villanueva@example.com",
+            "phone": "+254799678004",
+            "username": "sandrav",
+            "password": "Villanueva_740"
+        },
+        {
+            "firstName": "Sandra",
+            "middleName": "Amber",
+            "lastName": "Myers",
+            "email": "sandra.myers@example.com",
+            "phone": "+254710153386",
+            "username": "sandram",
+            "password": "Myers_726"
+        },
+        {
+            "firstName": "Janet",
+            "middleName": "Joshua",
+            "lastName": "Cain",
+            "email": "janet.cain@example.com",
+            "phone": "+254776246899",
+            "username": "janetc",
+            "password": "Cain_947"
+        },
+        {
+            "firstName": "Melissa",
+            "middleName": "Patty",
+            "lastName": "Lawrence",
+            "email": "melissa.lawrence@example.com",
+            "phone": "+254754712641",
+            "username": "melissal",
+            "password": "Lawrence_349"
+        },
+        {
+            "firstName": "Stephanie",
+            "middleName": "Bethany",
+            "lastName": "Hayes",
+            "email": "stephanie.hayes@example.com",
+            "phone": "+254753648190",
+            "username": "stephanieh",
+            "password": "Hayes_820"
+        },
+        {
+            "firstName": "Donna",
+            "middleName": "Wendy",
+            "lastName": "Stark",
+            "email": "donna.stark@example.com",
+            "phone": "+254718453606",
+            "username": "donnas",
+            "password": "Stark_295"
+        },
+        {
+            "firstName": "Laura",
+            "middleName": "Christopher",
+            "lastName": "Salazar",
+            "email": "laura.salazar@example.com",
+            "phone": "+254786170002",
+            "username": "lauras",
+            "password": "Salazar_327"
+        },
+        {
+            "firstName": "Tom",
+            "middleName": "Crystal",
+            "lastName": "Bruce",
+            "email": "tom.bruce@example.com",
+            "phone": "+254742026487",
+            "username": "tomb",
+            "password": "Bruce_922"
+        },
+        {
+            "firstName": "John",
+            "middleName": "Jessica",
+            "lastName": "Wilson",
+            "email": "john.wilson@example.com",
+            "phone": "+254729125273",
+            "username": "johnw",
+            "password": "Wilson_922"
+        },
+        {
+            "firstName": "Jeffrey",
+            "middleName": "Laura",
+            "lastName": "Cook",
+            "email": "jeffrey.cook@example.com",
+            "phone": "+254782878878",
+            "username": "jeffreyc",
+            "password": "Cook_558"
+        },
+        {
+            "firstName": "Lisa",
+            "middleName": "Craig",
+            "lastName": "Thomas",
+            "email": "lisa.thomas@example.com",
+            "phone": "+254722242798",
+            "username": "lisat",
+            "password": "Thomas_182"
+        },
+        {
+            "firstName": "Heidi",
+            "middleName": "Brandon",
+            "lastName": "Berry",
+            "email": "heidi.berry@example.com",
+            "phone": "+254752957001",
+            "username": "heidib",
+            "password": "Berry_996"
+        },
+        {
+            "firstName": "Renee",
+            "middleName": "Amanda",
+            "lastName": "Becker",
+            "email": "renee.becker@example.com",
+            "phone": "+254778174638",
+            "username": "reneeb",
+            "password": "Becker_601"
+        },
+        {
+            "firstName": "Anthony",
+            "middleName": "Cynthia",
+            "lastName": "Obrien",
+            "email": "anthony.obrien@example.com",
+            "phone": "+254724637496",
+            "username": "anthonyo",
+            "password": "Obrien_408"
+        },
+        {
+            "firstName": "Barbara",
+            "middleName": "Peter",
+            "lastName": "Wood",
+            "email": "barbara.wood@example.com",
+            "phone": "+254783989837",
+            "username": "barbaraw",
+            "password": "Wood_398"
+        },
+        {
+            "firstName": "Tina",
+            "middleName": "Benjamin",
+            "lastName": "Smith",
+            "email": "tina.smith@example.com",
+            "phone": "+254726751810",
+            "username": "tinas",
+            "password": "Smith_660"
+        },
+        {
+            "firstName": "Susan",
+            "middleName": "Jackson",
+            "lastName": "Martinez",
+            "email": "susan.martinez@example.com",
+            "phone": "+254754661017",
+            "username": "susanm",
+            "password": "Martinez_934"
+        },
+        {
+            "firstName": "Jason",
+            "middleName": "Lauren",
+            "lastName": "Giles",
+            "email": "jason.giles@example.com",
+            "phone": "+254782515638",
+            "username": "jasong",
+            "password": "Giles_308"
+        },
+        {
+            "firstName": "Andrew",
+            "middleName": "Ronald",
+            "lastName": "Garcia",
+            "email": "andrew.garcia@example.com",
+            "phone": "+254790958204",
+            "username": "andrewg",
+            "password": "Garcia_660"
+        },
+        {
+            "firstName": "Jordan",
+            "middleName": "Jeffrey",
+            "lastName": "Lucas",
+            "email": "jordan.lucas@example.com",
+            "phone": "+254788868627",
+            "username": "jordanl",
+            "password": "Lucas_394"
+        },
+        {
+            "firstName": "Michael",
+            "middleName": "Henry",
+            "lastName": "Gordon",
+            "email": "michael.gordon@example.com",
+            "phone": "+254769725416",
+            "username": "michaelg",
+            "password": "Gordon_193"
+        },
+        {
+            "firstName": "Benjamin",
+            "middleName": "Craig",
+            "lastName": "Mcneil",
+            "email": "benjamin.mcneil@example.com",
+            "phone": "+254790032267",
+            "username": "benjaminm",
+            "password": "Mcneil_917"
+        },
+        {
+            "firstName": "James",
+            "middleName": "Michael",
+            "lastName": "Dennis",
+            "email": "james.dennis@example.com",
+            "phone": "+254761660557",
+            "username": "jamesd",
+            "password": "Dennis_424"
+        },
+        {
+            "firstName": "Mary",
+            "middleName": "Samantha",
+            "lastName": "Jackson",
+            "email": "mary.jackson@example.com",
+            "phone": "+254787262571",
+            "username": "maryj",
+            "password": "Jackson_347"
+        },
+        {
+            "firstName": "Emily",
+            "middleName": "Tammy",
+            "lastName": "Brown",
+            "email": "emily.brown@example.com",
+            "phone": "+254748967366",
+            "username": "emilyb",
+            "password": "Brown_288"
+        },
+        {
+            "firstName": "Erica",
+            "middleName": "Megan",
+            "lastName": "Peterson",
+            "email": "erica.peterson@example.com",
+            "phone": "+254735419673",
+            "username": "ericap",
+            "password": "Peterson_941"
+        },
+        {
+            "firstName": "John",
+            "middleName": "Candice",
+            "lastName": "Ramos",
+            "email": "john.ramos@example.com",
+            "phone": "+254735062413",
+            "username": "johnr",
+            "password": "Ramos_133"
+        },
+        {
+            "firstName": "Gregory",
+            "middleName": "Thomas",
+            "lastName": "Ortiz",
+            "email": "gregory.ortiz@example.com",
+            "phone": "+254792245023",
+            "username": "gregoryo",
+            "password": "Ortiz_772"
+        },
+        {
+            "firstName": "Ashley",
+            "middleName": "William",
+            "lastName": "Collins",
+            "email": "ashley.collins@example.com",
+            "phone": "+254744904153",
+            "username": "ashleyc",
+            "password": "Collins_587"
+        },
+        {
+            "firstName": "Michael",
+            "middleName": "Mary",
+            "lastName": "King",
+            "email": "michael.king@example.com",
+            "phone": "+254719272465",
+            "username": "michaelk",
+            "password": "King_191"
+        },
+        {
+            "firstName": "Ann",
+            "middleName": "Alexander",
+            "lastName": "Harmon",
+            "email": "ann.harmon@example.com",
+            "phone": "+254727478429",
+            "username": "annh",
+            "password": "Harmon_997"
+        },
+        {
+            "firstName": "Matthew",
+            "middleName": "Brandon",
+            "lastName": "Campbell",
+            "email": "matthew.campbell@example.com",
+            "phone": "+254730072305",
+            "username": "matthewc",
+            "password": "Campbell_139"
+        },
+        {
+            "firstName": "John",
+            "middleName": "Stephanie",
+            "lastName": "Bell",
+            "email": "john.bell@example.com",
+            "phone": "+254720770746",
+            "username": "johnb",
+            "password": "Bell_816"
+        },
+        {
+            "firstName": "Keith",
+            "middleName": "Michael",
+            "lastName": "Arroyo",
+            "email": "keith.arroyo@example.com",
+            "phone": "+254782558093",
+            "username": "keitha",
+            "password": "Arroyo_799"
+        },
+        {
+            "firstName": "Cynthia",
+            "middleName": "Christine",
+            "lastName": "Baldwin",
+            "email": "cynthia.baldwin@example.com",
+            "phone": "+254762518866",
+            "username": "cynthiab",
+            "password": "Baldwin_957"
+        },
+        {
+            "firstName": "Paul",
+            "middleName": "Robert",
+            "lastName": "Curtis",
+            "email": "paul.curtis@example.com",
+            "phone": "+254780407122",
+            "username": "paulc",
+            "password": "Curtis_382"
+        },
+        {
+            "firstName": "Aaron",
+            "middleName": "James",
+            "lastName": "Cook",
+            "email": "aaron.cook@example.com",
+            "phone": "+254780033481",
+            "username": "aaronc",
+            "password": "Cook_931"
+        },
+        {
+            "firstName": "John",
+            "middleName": "Dana",
+            "lastName": "Gray",
+            "email": "john.gray@example.com",
+            "phone": "+254741608507",
+            "username": "johng",
+            "password": "Gray_969"
+        },
+        {
+            "firstName": "Nancy",
+            "middleName": "Ashley",
+            "lastName": "Perry",
+            "email": "nancy.perry@example.com",
+            "phone": "+254738883828",
+            "username": "nancyp",
+            "password": "Perry_795"
+        },
+        {
+            "firstName": "Richard",
+            "middleName": "Jacqueline",
+            "lastName": "Barnes",
+            "email": "richard.barnes@example.com",
+            "phone": "+254789161774",
+            "username": "richardb",
+            "password": "Barnes_945"
+        },
+        {
+            "firstName": "Eileen",
+            "middleName": "Brandon",
+            "lastName": "Griffin",
+            "email": "eileen.griffin@example.com",
+            "phone": "+254766294034",
+            "username": "eileeng",
+            "password": "Griffin_693"
+        },
+        {
+            "firstName": "Jonathon",
+            "middleName": "Eric",
+            "lastName": "Rose",
+            "email": "jonathon.rose@example.com",
+            "phone": "+254746938170",
+            "username": "jonathonr",
+            "password": "Rose_561"
+        },
+        {
+            "firstName": "Tony",
+            "middleName": "Anna",
+            "lastName": "Campos",
+            "email": "tony.campos@example.com",
+            "phone": "+254776123086",
+            "username": "tonyc",
+            "password": "Campos_776"
+        },
+        {
+            "firstName": "Nicole",
+            "middleName": "Troy",
+            "lastName": "Collins",
+            "email": "nicole.collins@example.com",
+            "phone": "+254796059980",
+            "username": "nicolec",
+            "password": "Collins_817"
+        },
+        {
+            "firstName": "Steven",
+            "middleName": "Lisa",
+            "lastName": "Golden",
+            "email": "steven.golden@example.com",
+            "phone": "+254757965060",
+            "username": "steveng",
+            "password": "Golden_184"
+        },
+        {
+            "firstName": "Lisa",
+            "middleName": "Jacob",
+            "lastName": "Key",
+            "email": "lisa.key@example.com",
+            "phone": "+254753530143",
+            "username": "lisak",
+            "password": "Key_727"
+        },
+        {
+            "firstName": "Cynthia",
+            "middleName": "Christopher",
+            "lastName": "Swanson",
+            "email": "cynthia.swanson@example.com",
+            "phone": "+254725481980",
+            "username": "cynthias",
+            "password": "Swanson_598"
+        },
+        {
+            "firstName": "Valerie",
+            "middleName": "Richard",
+            "lastName": "Gregory",
+            "email": "valerie.gregory@example.com",
+            "phone": "+254788795832",
+            "username": "valerieg",
+            "password": "Gregory_745"
+        },
+        {
+            "firstName": "Leslie",
+            "middleName": "Jason",
+            "lastName": "Love",
+            "email": "leslie.love@example.com",
+            "phone": "+254754999241",
+            "username": "lesliel",
+            "password": "Love_965"
+        },
+        {
+            "firstName": "Aaron",
+            "middleName": "Mackenzie",
+            "lastName": "Rice",
+            "email": "aaron.rice@example.com",
+            "phone": "+254735552216",
+            "username": "aaronr",
+            "password": "Rice_348"
+        },
+        {
+            "firstName": "Connor",
+            "middleName": "David",
+            "lastName": "Banks",
+            "email": "connor.banks@example.com",
+            "phone": "+254712175538",
+            "username": "connorb",
+            "password": "Banks_849"
+        },
+        {
+            "firstName": "Morgan",
+            "middleName": "Joshua",
+            "lastName": "Good",
+            "email": "morgan.good@example.com",
+            "phone": "+254746378099",
+            "username": "morgang",
+            "password": "Good_219"
+        },
+        {
+            "firstName": "Craig",
+            "middleName": "Melissa",
+            "lastName": "Sanders",
+            "email": "craig.sanders@example.com",
+            "phone": "+254739589712",
+            "username": "craigs",
+            "password": "Sanders_480"
+        },
+        {
+            "firstName": "Christopher",
+            "middleName": "Joshua",
+            "lastName": "Chavez",
+            "email": "christopher.chavez@example.com",
+            "phone": "+254732881676",
+            "username": "christopherc",
+            "password": "Chavez_440"
+        },
+        {
+            "firstName": "Laura",
+            "middleName": "Michelle",
+            "lastName": "Anderson",
+            "email": "laura.anderson@example.com",
+            "phone": "+254767194352",
+            "username": "lauraa",
+            "password": "Anderson_935"
+        },
+        {
+            "firstName": "Abigail",
+            "middleName": "Debra",
+            "lastName": "Reed",
+            "email": "abigail.reed@example.com",
+            "phone": "+254718347330",
+            "username": "abigailr",
+            "password": "Reed_203"
+        },
+        {
+            "firstName": "Monica",
+            "middleName": "Joshua",
+            "lastName": "Smith",
+            "email": "monica.smith@example.com",
+            "phone": "+254729643903",
+            "username": "monicas",
+            "password": "Smith_975"
+        },
+        {
+            "firstName": "Billy",
+            "middleName": "Erin",
+            "lastName": "Grant",
+            "email": "billy.grant@example.com",
+            "phone": "+254739363290",
+            "username": "billyg",
+            "password": "Grant_146"
+        },
+        {
+            "firstName": "Stacey",
+            "middleName": "Sheena",
+            "lastName": "Browning",
+            "email": "stacey.browning@example.com",
+            "phone": "+254787022995",
+            "username": "staceyb",
+            "password": "Browning_749"
+        },
+        {
+            "firstName": "Bobby",
+            "middleName": "Kara",
+            "lastName": "Miles",
+            "email": "bobby.miles@example.com",
+            "phone": "+254781698837",
+            "username": "bobbym",
+            "password": "Miles_716"
+        },
+        {
+            "firstName": "Diana",
+            "middleName": "Jennifer",
+            "lastName": "Orr",
+            "email": "diana.orr@example.com",
+            "phone": "+254719931695",
+            "username": "dianao",
+            "password": "Orr_127"
+        },
+        {
+            "firstName": "Danielle",
+            "middleName": "Nathan",
+            "lastName": "Medina",
+            "email": "danielle.medina@example.com",
+            "phone": "+254726702553",
+            "username": "daniellem",
+            "password": "Medina_750"
+        },
+        {
+            "firstName": "Jared",
+            "middleName": "Brenda",
+            "lastName": "Smith",
+            "email": "jared.smith@example.com",
+            "phone": "+254735302809",
+            "username": "jareds",
+            "password": "Smith_720"
+        },
+        {
+            "firstName": "Edward",
+            "middleName": "Mathew",
+            "lastName": "Clarke",
+            "email": "edward.clarke@example.com",
+            "phone": "+254787303096",
+            "username": "edwardc",
+            "password": "Clarke_222"
+        },
+        {
+            "firstName": "Jennifer",
+            "middleName": "Matthew",
+            "lastName": "Oliver",
+            "email": "jennifer.oliver@example.com",
+            "phone": "+254762507238",
+            "username": "jennifero",
+            "password": "Oliver_193"
+        },
+        {
+            "firstName": "Blake",
+            "middleName": "Frank",
+            "lastName": "Holden",
+            "email": "blake.holden@example.com",
+            "phone": "+254759679341",
+            "username": "blakeh",
+            "password": "Holden_953"
+        },
+        {
+            "firstName": "Keith",
+            "middleName": "Ralph",
+            "lastName": "Kelley",
+            "email": "keith.kelley@example.com",
+            "phone": "+254725575449",
+            "username": "keithk",
+            "password": "Kelley_137"
+        },
+        {
+            "firstName": "Kelly",
+            "middleName": "Timothy",
+            "lastName": "Allen",
+            "email": "kelly.allen@example.com",
+            "phone": "+254791269394",
+            "username": "kellya",
+            "password": "Allen_122"
+        },
+        {
+            "firstName": "Brandon",
+            "middleName": "Hayden",
+            "lastName": "Mills",
+            "email": "brandon.mills@example.com",
+            "phone": "+254736117555",
+            "username": "brandonm",
+            "password": "Mills_289"
+        },
+        {
+            "firstName": "Chad",
+            "middleName": "Richard",
+            "lastName": "Murphy",
+            "email": "chad.murphy@example.com",
+            "phone": "+254726628927",
+            "username": "chadm",
+            "password": "Murphy_590"
+        },
+        {
+            "firstName": "Robert",
+            "middleName": "Cory",
+            "lastName": "Kerr",
+            "email": "robert.kerr@example.com",
+            "phone": "+254738263100",
+            "username": "robertk",
+            "password": "Kerr_844"
+        },
+        {
+            "firstName": "Thomas",
+            "middleName": "Mary",
+            "lastName": "Cherry",
+            "email": "thomas.cherry@example.com",
+            "phone": "+254718198675",
+            "username": "thomasc",
+            "password": "Cherry_795"
+        },
+        {
+            "firstName": "Matthew",
+            "middleName": "Timothy",
+            "lastName": "Lyons",
+            "email": "matthew.lyons@example.com",
+            "phone": "+254713057825",
+            "username": "matthewl",
+            "password": "Lyons_657"
+        },
+        {
+            "firstName": "Ronald",
+            "middleName": "Kevin",
+            "lastName": "Navarro",
+            "email": "ronald.navarro@example.com",
+            "phone": "+254767125592",
+            "username": "ronaldn",
+            "password": "Navarro_735"
+        }
+    
 ]
